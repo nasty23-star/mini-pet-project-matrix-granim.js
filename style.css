@@ -77,6 +77,8 @@ body {
   }
   
   @media screen and (max-width: 400px) {
+      body {
+          width: 250px;
     #canvas-image-blending {
       height: ;
     }

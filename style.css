@@ -79,6 +79,7 @@ body {
   @media screen and (max-width: 400px) {
       body {
           font-size: 30px;
+      }
     #canvas-image-blending {
       height: 120%;
     }

@@ -83,4 +83,7 @@ body {
     #canvas-image-blending {
       height: 120%;
     }
+      .container {
+    padding-bottom: 0px;
+  }
   }
